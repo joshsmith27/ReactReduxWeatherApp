@@ -1,0 +1,18 @@
+tb, th{
+  vertical-align:  middle !important;
+  text-align: center !important;
+}
+.input-group {
+    width: 75%;
+    margin: 20px auto;
+    position: relative;
+    border-collapse: separate;
+    display: flex;
+}
+svg{
+  height: 150px;
+}
+td:first-of-type, td:first-of-type > div{
+  height: 200px;
+  width: 200px;
+}
