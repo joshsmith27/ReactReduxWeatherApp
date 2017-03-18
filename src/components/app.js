@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
-import SearchBar from '../containers/search_bar';
-import WeatherList from '../containers/weather_list';
+import SearchBar from '../Containers/search_bar';
+import WeatherList from '../Containers/weather_list';
 export default class App extends Component {
   render() {
     return (
